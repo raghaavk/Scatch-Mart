@@ -123,5 +123,5 @@ scatch-mart/
 ## Conclusion
 Scatch Mart is a modern and scalable e-commerce platform that demonstrates effective use of the MERN stack for both frontend and backend development. It offers core shopping features and admin management while being extensible for future improvements.
 
-## Developed and Designed by Abhinav Mishra
+## Developed and Designed by Raghav Kapoor
 
